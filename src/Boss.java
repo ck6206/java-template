@@ -1,3 +1,6 @@
+
+//THIS CLASS IS NOT FINISHED, AND NOT USED
+
 public class Boss extends Character{
     public Boss(String n, int l, int h, int a, int d){
         super(n, l, h, a, d);
